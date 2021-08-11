@@ -193,5 +193,5 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [license-shield]: https://img.shields.io/github/license/Reza4096/go-euler.svg?style=for-the-badge
 [license-url]: https://github.com/Reza4096/go-euler/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/alireza-rezazadeh-39b05616a/
 [product-screenshot]: images/screenshot.png
