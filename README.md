@@ -14,7 +14,7 @@
     <img src="https://www.biography.com/.image/t_share/MTgxMTU0MjU1ODkyMTI4ODU2/gettyimages-491422932-copy.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">go-euler</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
