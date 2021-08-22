@@ -17,7 +17,7 @@
   <h3 align="center">go-euler</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Project Euler Solutions in Golang
     <br />
     <a href="https://github.com/Reza4096/go-euler"><strong>Explore the docs »</strong></a>
     <br />
