@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Reza4096/go-euler">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://www.biography.com/.image/t_share/MTgxMTU0MjU1ODkyMTI4ODU2/gettyimages-491422932-copy.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
