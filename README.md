@@ -19,11 +19,7 @@
   <p align="center">
     Project Euler Solutions in Golang
     <br />
-    <a href="https://github.com/Reza4096/go-euler"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/Reza4096/go-euler">View Demo</a>
-    ·
     <a href="https://github.com/Reza4096/go-euler/issues">Report Bug</a>
     ·
     <a href="https://github.com/Reza4096/go-euler/issues">Request Feature</a>
